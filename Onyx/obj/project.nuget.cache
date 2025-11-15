@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I+bJncy5B+k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Onyx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TempAdmin\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512",
+    "C:\\Users\\TempAdmin\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

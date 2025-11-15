@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\iw\\iwform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\iw\\iwform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\classes\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\classes\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\classes\\notify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\classes\\notify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\classes\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\classes\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\classes\\gsc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\classes\\gsc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\json\\mwr.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\json\\mwr.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\json\\iw.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\json\\iw.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\iw\\iwform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\iw\\iwform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\iw\\iwform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\iw\\iwform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\ww2\\ww2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\ww2\\ww2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\ww2\\ww2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\ww2\\ww2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\mwr\\mwrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\mwr\\mwrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\json\\ww2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\json\\ww2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\mwr\\mwrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\mwr\\mwrform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\mwr\\mwrform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\mwr\\mwrform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\onyx\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\ww2\\ww2form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\ww2\\ww2form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\onyx.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\onyx.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\onyx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\onyx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|c:\\users\\tempadmin\\desktop\\onyx\\onyx\\onyx\\forms\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474EAAE9-7BDD-43F9-B5FE-D43974B686FE}|Onyx\\Onyx.csproj|solutionrelative:onyx\\forms\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IWForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\IW\\IWForm.Designer.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\IW\\IWForm.Designer.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\IW\\IWForm.Designer.cs",
+              "RelativeToolTip": "Onyx\\Forms\\IW\\IWForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:08:53.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ww2.json",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\JSON\\ww2.json",
+              "RelativeDocumentMoniker": "Onyx\\JSON\\ww2.json",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\JSON\\ww2.json",
+              "RelativeToolTip": "Onyx\\JSON\\ww2.json",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAANsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T22:39:37.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IWForm.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\IW\\IWForm.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\IW\\IWForm.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\IW\\IWForm.cs",
+              "RelativeToolTip": "Onyx\\Forms\\IW\\IWForm.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwIQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:06:15.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWForm.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\IW\\IWForm.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\IW\\IWForm.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\IW\\IWForm.cs [Conception]",
+              "RelativeToolTip": "Onyx\\Forms\\IW\\IWForm.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:02:58.844Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Main.cs",
+              "RelativeDocumentMoniker": "Onyx\\Main.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Main.cs [Conception]",
+              "RelativeToolTip": "Onyx\\Main.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:39:56.16Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mwr.json",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\JSON\\mwr.json",
+              "RelativeDocumentMoniker": "Onyx\\JSON\\mwr.json",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\JSON\\mwr.json",
+              "RelativeToolTip": "Onyx\\JSON\\mwr.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T22:39:33.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MWRForm.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\MWR\\MWRForm.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\MWR\\MWRForm.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\MWR\\MWRForm.cs",
+              "RelativeToolTip": "Onyx\\Forms\\MWR\\MWRForm.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAwwOQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:07:36.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WW2Form.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\WW2\\WW2Form.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\WW2\\WW2Form.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\WW2\\WW2Form.cs [Conception]",
+              "RelativeToolTip": "Onyx\\Forms\\WW2\\WW2Form.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:36:29.315Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Main.cs",
+              "RelativeDocumentMoniker": "Onyx\\Main.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Main.cs",
+              "RelativeToolTip": "Onyx\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:11:41.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JSON.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Classes\\JSON.cs",
+              "RelativeDocumentMoniker": "Onyx\\Classes\\JSON.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Classes\\JSON.cs",
+              "RelativeToolTip": "Onyx\\Classes\\JSON.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:34:25.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GSC.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Classes\\GSC.cs",
+              "RelativeDocumentMoniker": "Onyx\\Classes\\GSC.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Classes\\GSC.cs",
+              "RelativeToolTip": "Onyx\\Classes\\GSC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:26:06.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notify.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Classes\\Notify.cs",
+              "RelativeDocumentMoniker": "Onyx\\Classes\\Notify.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Classes\\Notify.cs",
+              "RelativeToolTip": "Onyx\\Classes\\Notify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:49:32.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Classes\\Theme.cs",
+              "RelativeDocumentMoniker": "Onyx\\Classes\\Theme.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Classes\\Theme.cs",
+              "RelativeToolTip": "Onyx\\Classes\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:48:04.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\Settings.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\Settings.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\Settings.cs",
+              "RelativeToolTip": "Onyx\\Forms\\Settings.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAiwGMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:46:58.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "iw.json",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\JSON\\iw.json",
+              "RelativeDocumentMoniker": "Onyx\\JSON\\iw.json",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\JSON\\iw.json",
+              "RelativeToolTip": "Onyx\\JSON\\iw.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T00:10:58.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WW2Form.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\WW2\\WW2Form.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\WW2\\WW2Form.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\WW2\\WW2Form.cs",
+              "RelativeToolTip": "Onyx\\Forms\\WW2\\WW2Form.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAswLUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:15:09.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MWRForm.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\MWR\\MWRForm.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\MWR\\MWRForm.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\MWR\\MWRForm.cs [Conception]",
+              "RelativeToolTip": "Onyx\\Forms\\MWR\\MWRForm.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:34:56.956Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MWRForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\MWR\\MWRForm.Designer.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\MWR\\MWRForm.Designer.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\MWR\\MWRForm.Designer.cs",
+              "RelativeToolTip": "Onyx\\Forms\\MWR\\MWRForm.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAM4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:07:49.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Settings.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\Settings.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\Settings.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\Settings.cs [Conception]",
+              "RelativeToolTip": "Onyx\\Forms\\Settings.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:17:33.502Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "Onyx\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Main.Designer.cs",
+              "RelativeToolTip": "Onyx\\Main.Designer.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAowMUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:53:55.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Program.cs",
+              "RelativeDocumentMoniker": "Onyx\\Program.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Program.cs",
+              "RelativeToolTip": "Onyx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:54:27.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Onyx\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Properties\\Settings.settings",
+              "RelativeToolTip": "Onyx\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-11-14T12:53:24.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Onyx",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Onyx.csproj",
+              "RelativeDocumentMoniker": "Onyx\\Onyx.csproj",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Onyx.csproj",
+              "RelativeToolTip": "Onyx\\Onyx.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T23:43:13.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WW2Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\WW2\\WW2Form.Designer.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\WW2\\WW2Form.Designer.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\WW2\\WW2Form.Designer.cs",
+              "RelativeToolTip": "Onyx\\Forms\\WW2\\WW2Form.Designer.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAiwBgBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T23:50:02.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Onyx",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Onyx.csproj",
+              "RelativeDocumentMoniker": "Onyx\\Onyx.csproj",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Onyx.csproj",
+              "RelativeToolTip": "Onyx\\Onyx.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T00:55:20.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Onyx\\Forms\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\TempAdmin\\Desktop\\Onyx\\Onyx\\Onyx\\Forms\\Settings.Designer.cs",
+              "RelativeToolTip": "Onyx\\Forms\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:04:23.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

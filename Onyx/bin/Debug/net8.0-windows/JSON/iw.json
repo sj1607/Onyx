@@ -1,0 +1,184 @@
+[
+  {
+    "hash": "method_8320",
+    "unhash": "SetPerk",
+    "params": [],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_83CC",
+    "unhash": "UnSetPerk",
+    "params": [],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_806E",
+    "unhash": "ClearAllTextAfterHudElem",
+    "params": [],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_8077",
+    "unhash": "ClearPerks",
+    "params": [],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_829B",
+    "unhash": "SetAimSpreadMovementScale",
+    "params": ["int"],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_83B6",
+    "unhash": "SwitchToWeaponImmediate",
+    "params": ["weapon"],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "self.var_6BA7",
+    "unhash": "self.fauxDead",
+    "params": [],
+    "path": "",
+    "type": "variable"
+  },
+
+  {
+    "hash": "_hasperk",
+    "unhash": "HasPerk",
+    "params": [ "perk" ],
+    "path": "scripts/mp/_utility.gsc",
+    "type": "function"
+  },
+  {
+    "hash": "func_8387",
+    "unhash": "SetPerk",
+    "params": [ "perk" ],
+    "path": "scripts/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_E150",
+    "unhash": "UnSetPerk",
+    "params": [ "perk" ],
+    "path": "scripts/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_9DE2",
+    "unhash": "IsEnvironmentWeapon",
+    "params": [ "weapon" ],
+    "path": "scripts/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_11AA",
+    "unhash": "_ClearPerks",
+    "params": [],
+    "path": "scripts/mp/perks/_perks.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_1417",
+    "unhash": "_Suicide",
+    "params": [],
+    "path": "scripts/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_49AA",
+    "unhash": "CreateEffect",
+    "params": [ "type", "fxid" ],
+    "path": "scripts/common/createfx.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_7F81",
+    "unhash": "GetLoopEffectDelayDefault",
+    "params": [],
+    "path": "scripts/common/createfx.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_8022",
+    "unhash": "GetOnesHotEffectDelayDefault",
+    "params": [],
+    "path": "scripts/common/createfx.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_7EA6",
+    "unhash": "GetExploderDelayDefault",
+    "params": [],
+    "path": "scripts/common/createfx.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_7F1C",
+    "unhash": "GetIntervalSoundDelayMinDefault",
+    "params": [],
+    "path": "scripts/common/createfx.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_7F1B",
+    "unhash": "GetIntervalSoundDelayMaxDefault",
+    "params": [],
+    "path": "scripts/common/createfx.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_49E7",
+    "unhash": "CreateLoopSound",
+    "params": [],
+    "path": "scripts/common/createfx.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_49DD",
+    "unhash": "CreateIntervalSound",
+    "params": [],
+    "path": "scripts/common/createfx.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_49F5",
+    "unhash": "CreateNewExploder",
+    "params": [ "entity" ],
+    "path": "scripts/common/createfx.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_49AF",
+    "unhash": "CreateExploderEx",
+    "params": [ "exploder type", "exploder id" ],
+    "path": "scripts/common/createfx.gsc",
+    "type": "function"
+  }
+]

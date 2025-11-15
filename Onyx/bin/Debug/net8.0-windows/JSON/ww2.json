@@ -1,0 +1,305 @@
+[
+  {
+    "hash": "level.var_3FDC",
+    "unhash": "level.gametype",
+    "params": [],
+    "path": "",
+    "type": "variable"
+  },
+
+  {
+    "hash": "self.var_596B",
+    "unhash": "self.team",
+    "params": [],
+    "path": "",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_4E0E",
+    "unhash": "level.hostname",
+    "params": [],
+    "path": "",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_6B7B",
+    "unhash": "level.onPlayerKilled",
+    "params": [],
+    "path": "",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_6079",
+    "unhash": "sv_maxclients",
+    "params": [],
+    "path": "",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_4B17",
+    "unhash": "g_hardcore",
+    "params": [],
+    "path": "",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_3E16",
+    "unhash": "level.gameForceEnd",
+    "params": [],
+    "path": "",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_4DFE",
+    "unhash": "level.hostGameEnd",
+    "params": [],
+    "path": "",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_7A67",
+    "unhash": "level.rankedmatch",
+    "params": [],
+    "path": "",
+    "type": "variable"
+  },
+
+  {
+    "hash": "func_649",
+    "unhash": "HasPerk",
+    "params": [ "perk" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_47A2",
+    "unhash": "SetPerk",
+    "params": [ "perk" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_0735",
+    "unhash": "UnSetPerk",
+    "params": [ "perk" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_870F",
+    "unhash": "SetRecoilScale",
+    "params": [ "bool", "int" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_0602",
+    "unhash": "_DisableWeapon",
+    "params": [],
+    "path": "common_scripts/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_0600",
+    "unhash": "_DisableOffHandWeapons",
+    "params": [],
+    "path": "common_scripts/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_0601",
+    "unhash": "_DisableUsAbility",
+    "params": [],
+    "path": "common_scripts/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_0616",
+    "unhash": "_EnableWeapon",
+    "params": [],
+    "path": "common_scripts/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_0614",
+    "unhash": "_EnableOffHandWeapons",
+    "params": [],
+    "path": "common_scripts/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_0615",
+    "unhash": "_EnableUsAbility",
+    "params": [],
+    "path": "common_scripts/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_36B9",
+    "unhash": "EndGame",
+    "params": [ "reason", "end_reason" ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_570A",
+    "unhash": "isHeadShot",
+    "params": [ "sWeapon", "sHitLoc", "sMeansOfDeath", "attacker" ],
+    "path": "common_scripts/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_56D9",
+    "unhash": "isEnemy",
+    "params": [ "player" ],
+    "path": "common_scripts/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_5781",
+    "unhash": "isPlayerOnEnemyTeam",
+    "params": [ "player" ],
+    "path": "common_scripts/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_6F27",
+    "unhash": "PauseTimer",
+    "params": [],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_7DFC",
+    "unhash": "ResumeTimer",
+    "params": [],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_1E65",
+    "unhash": "PauseGame",
+    "params": [],
+    "path": "maps/mp/gametypes/_hostmigration.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_21E3",
+    "unhash": "CheckScoreLimit",
+    "params": [],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_4671",
+    "unhash": "GetScoreInfoValue",
+    "params": [ "type" ],
+    "path": "maps/mp/gametypes/_rank.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_7C06",
+    "unhash": "RegisterXpEventInfo",
+    "params": [ "type", "value" ],
+    "path": "maps/mp/gametypes/_rank.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_0FC0",
+    "unhash": "ArrayRemoveValue",
+    "params": [ "array", "value" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_5822",
+    "unhash": "IsValidClass",
+    "params": [ "class" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_05E4",
+    "unhash": "_ClearPerks",
+    "params": [ "player" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_4652",
+    "unhash": "GetRank",
+    "params": [],
+    "path": "maps/mp/gametypes/_rank.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_A157",
+    "unhash": "SetRank",
+    "params": [ "oldXP" ],
+    "path": "maps/mp/gametypes/_rank.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_465C",
+    "unhash": "GetRankXP",
+    "params": [],
+    "path": "maps/mp/gametypes/_rank.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_9575",
+    "unhash": "SyncXPStat",
+    "params": [ "player" ],
+    "path": "maps/mp/gametypes/_rank.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_8A67",
+    "unhash": "SetWeaponStat",
+    "params": [ "name", "incValue", "statName" ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "method_82AB",
+    "unhash": "ClearPerks",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  }
+]

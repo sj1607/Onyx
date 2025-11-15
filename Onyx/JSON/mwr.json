@@ -1,0 +1,25 @@
+[
+  {
+    "hash": "method_8320",
+    "unhash": "SetPerk",
+    "params": [],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_83CC",
+    "unhash": "UnSetPerk",
+    "params": [],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_806E",
+    "unhash": "ClearAllTextAfterHudElem",
+    "params": [],
+    "path": "",
+    "type": "method"
+  }
+]
