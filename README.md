@@ -8,7 +8,9 @@ Onyx currently supports the following titles:
 
 **S2** (World War II)
 
-**IW7** (Modern Warfare Remastered and Infinite Warfare)
+**H1** (Moderne Warfare Remastered)
+
+**IW7** (Infinite Warfare)
 
 # Notes
 ### Customization : You have direct access to the JSON files (even in the compiled version), allowing you to modify and update the databases as needed. Feel free to contribute or adjust the data for your own projects!
