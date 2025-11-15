@@ -13,4 +13,4 @@ Onyx currently supports the following titles:
 # Notes
 ### Customization : You have direct access to the JSON files (even in the compiled version), allowing you to modify and update the databases as needed. Feel free to contribute or adjust the data for your own projects!
 
-### Ready to Use Executable : For those who only want the compiled version, the executable file is available here : ###  **[➡️ Releases](../../releases)**.
+### Ready to Use Executable : For those who only want the compiled version, the executable file is available here :  **[➡️ Releases](../../releases)**.
