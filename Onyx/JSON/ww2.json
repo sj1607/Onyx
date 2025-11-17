@@ -49,7 +49,7 @@
 
   {
     "hash": "level.var_3E16",
-    "unhash": "level.gameForceEnd",
+    "unhash": "level.forcedEnd",
     "params": [],
     "path": "",
     "type": "variable"
@@ -57,7 +57,7 @@
 
   {
     "hash": "level.var_4DFE",
-    "unhash": "level.hostGameEnd",
+    "unhash": "level.hostForcedEnd",
     "params": [],
     "path": "",
     "type": "variable"
@@ -301,5 +301,967 @@
     "params": [  ],
     "path": "maps/mp/_utility.gsc",
     "type": "method"
+  }, 
+
+  {
+    "hash": "func_3941",
+    "unhash": "exploder_sound",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "method_8617",
+    "unhash": "playsound",
+    "params": [ "sound" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "self.var_161",
+    "unhash": "self.script_delay",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "self.var_1A6D",
+    "unhash": "level.scr_sound",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "self.var_828A",
+    "unhash": "self.script_sound",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_05D4",
+    "unhash": "_BeginLocationSelection",
+    "params": [ "streakName" , "vector" , "bool" , "size (500)" , "int (delay)" , "bool"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_36E8",
+    "unhash": "stoplocationselection",
+    "params": [ "bool" , "string" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_940B",
+    "unhash": "stopLocationSelection",
+    "params": [ "bool" , "string"  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "method_1198",
+    "unhash": "beginLocationSelection",
+    "params": [ "streakName" , "selectorType" , "bool" , "size (500)" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_36E7",
+    "unhash": "endSelectionOnEMP",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_36E6",
+    "unhash": "endSelectionOnAction",
+    "params": [ "string event" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_36E8",
+    "unhash": "endSelectionOnEndGame",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_36E5",
+    "unhash": "endSelectionOnHostMigration",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_5679",
+    "unhash": "IsAttachment",
+    "params": [ "string attachment" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_4429",
+    "unhash": "GetAttachmentType",
+    "params": [ "string attachment" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2CED",
+    "unhash": "DelayThread",
+    "params": [ "var_1", "var_0", "var_2", "var_3", "var_4", "var_5", "var_6" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2CEF",
+    "unhash": "DelayThread_Proc",
+    "params": [ "var_1", "var_0", "var_2", "var_3", "var_4", "var_5", "var_6" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_4617",
+    "unhash": "GetPlant",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "self.var_116",
+    "unhash": "self.origin",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "self.var_119",
+    "unhash": "self.angles",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_6C3A",
+    "unhash": "orientToNormal",
+    "params": [ "structure" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_910F",
+    "unhash": "level.splitscreen",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_069F",
+    "unhash": "_PlayLocalSound",
+    "params": [ "sound" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "method_8615",
+    "unhash": "playlocalsound",
+    "params": [ "sound" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "func_3517",
+    "unhash": "dvarIntValue",
+    "params": [ "dvar" , "default (int)" , "min (int)" , "max (int)" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_3516",
+    "unhash": "dvarFloatValue",
+    "params": [ "dvar" , "default (float)" , "min (float)" , "max (float)" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_46E3",
+    "unhash": "GetTimePassed",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "level.var_9309",
+    "unhash": "level.startTime",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_2FB1",
+    "unhash": "level.discardTime",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_9A11",
+    "unhash": "level.timerPauseTime",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "func_467B",
+    "unhash": "GetSecondsPassed",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_4589",
+    "unhash": "GetMinutesPassed",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_467B",
+    "unhash": "GetSecondsPassed",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_23FF",
+    "unhash": "ClearKillcamState",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "self.var_9F",
+    "unhash": "self.forcespectatorclient",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "self.var_E1",
+    "unhash": "self.killcamentity",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_5822",
+    "unhash": "IsValidClass",
+    "params": [ "class" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_46E4",
+    "unhash": "GetTimePassedPercentage",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "function_00F5",
+    "unhash": "logstring",
+    "params": ["string"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "method_802B",
+    "unhash": "logstring",
+    "params": ["string"],
+    "path": "maps/mp/gametypes/_class.gsc",
+    "type": "method"
+  },
+
+  {
+    "hash": "func_7BF9",
+    "unhash": "registerWatchDvarInt",
+    "params": ["dvar" , "int"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_7BF8",
+    "unhash": "registerRoundSwitchDvar",
+    "params": ["int" , "int" , "int" , "int"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_7BF7",
+    "unhash": "registerRoundLimitDvar",
+    "params": ["gametype" , "int"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+   {
+    "hash" : "func_7BF2",
+    "unhash" : "registerNumTeamsDvar",
+    "params" : [ "gametype" , "int"],
+    "path" : "maps/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash": "func_7C04",
+    "unhash": "registerWinLimitDvar",
+    "params": ["gametype" , "int"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_7BF9",
+    "unhash": "registerScoreLimitDvar",
+    "params": ["gametype" , "int"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_7BFA",
+    "unhash": "registerTimeLimitDvar",
+    "params": ["gametype" , "int"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_7BE5",
+    "unhash": "registerHalfTimeDvar",
+    "params": ["gametype" , "int"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_7BF1",
+    "unhash": "registerNumLivesDvar",
+    "params": ["gametype" , "int"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_86EB",
+    "unhash": "setOverTimeLimitDvar",
+    "params": ["gametype" , "int"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_413A",
+    "unhash": "get_damageable_player",
+    "params": ["entity" , "vector"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_44AB",
+    "unhash": "GetDvarVec",
+    "params": ["dvar" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_072B",
+    "unhash": "_TakeWeaponsExcept",
+    "params": ["weapon" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_8064",
+    "unhash": "SaveData",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "method_831F",
+    "unhash": "GetOffHandSecondaryClass",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "self.var_805F",
+    "unhash": "self.saved_actionSlotData",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "self.var_99AC",
+    "unhash": "self.throwingGrenade",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_7DEF",
+    "unhash": "RestoreData",
+    "params": [ ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "method_831E",
+    "unhash": "SetOffHandSecondaryClass",
+    "params": [ "offhandClass" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "method_82FA",
+    "unhash": "SetWeaponAmmoClip",
+    "params": [ "weapon" , "clipAmmo" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_82E8",
+    "unhash": "player_RecoilScaleOff",
+    "params": [ "" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "method_82E7",
+    "unhash": "player_recoilscaleon",
+    "params": [ "int" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "self.var_7AD7",
+    "unhash": "self.recoilScale",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_8742",
+    "unhash": "SetThirdPersonDOF",
+    "params": [ "int" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_5A81",
+    "unhash": "killTrigger",
+    "params": [ "vector" , "int" , "int" ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_6892",
+    "unhash": "level.numKills",
+    "params": [  ],
+    "path": "maps/mp/_events.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "self.var_62A1",
+    "unhash": "self.modifiers",
+    "params": [  ],
+    "path": "maps/mp/_events.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_A559",
+    "unhash": "level.createFX_enabled",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_3C92",
+    "unhash": "level.flag_struct",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_3C77",
+    "unhash": "level.flags",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_3CC6",
+    "unhash": "level.flags_lock",
+    "params": [ ],
+    "path": "maps/mp/_load.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_3F02",
+    "unhash": "level.func",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_5B0E",
+    "unhash": "level.laseron_func",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "method_80A4",
+    "unhash": "laseron",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "level.var_5B0C",
+    "unhash": "level.laseroff_func",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "method_80A4",
+    "unhash": "laseroff",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "level.var_2587",
+    "unhash": "level.connectpathsfunction",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "method_8060",
+    "unhash": "connectpaths",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "level.var_2FC3",
+    "unhash": "level.disconnectpathsfunction",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "method_805F",
+    "unhash": "disconnectpaths",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "method_805C",
+    "unhash": "hide",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "method"
+  },
+
+  {
+    "hash": "func_5AFD",
+    "unhash": "lanterns",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_4FF4",
+    "unhash": "hurtPlayersThink",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_728",
+    "unhash": "_Suicide",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_8A15",
+    "unhash": "setupDestructibleKillCamEnts",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2D34",
+    "unhash": "deleteDestructibleKillCamEnt",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "self.var_5A2C",
+    "unhash": "self.killCamEnt",
+    "params": [  ],
+    "path": "maps/mp/_load.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_2321",
+    "unhash": "level.classMap",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_class.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_2BC2",
+    "unhash": "level.defaultClass",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_class.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_2324",
+    "unhash": "level.classTableName",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_class.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "self.var_5B84",
+    "unhash": "self.lastclass",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_class.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "func_1E12",
+    "unhash": "cac_getWeapon",
+    "params": [ "loadout index", "weapon slot" ],
+    "path": "maps/mp/gametypes/_class.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_1E13",
+    "unhash": "cac_getOffHandWeapon",
+    "params": [ "loadout index" ],
+    "path": "maps/mp/gametypes/_class.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_6B3C",
+    "unhash": "onForfeit",
+    "params": [ "team" ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_3E39",
+    "unhash": "level.forfeitInProgress",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_984D",
+    "unhash": "level.teamBased",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_3E39",
+    "unhash": "level.forfeitInProgress",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_744A",
+    "unhash": "level.players",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_3E38",
+    "unhash": "level.forfeit_aborted",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_3B5C",
+    "unhash": "level.finalkillcam_winner",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_6520",
+    "unhash": "level.multiteambased",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_3E16",
+    "unhash": "level.forcedEnd",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_3E38",
+    "unhash": "level.forfeit_aborted",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_3E3A",
+    "unhash": "forfeitwaitforabort",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_602A",
+    "unhash": "matchForfeitTimer_Internal",
+    "params": [ "int" ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_3E1A",
+    "unhash": "ForceEnd",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_6B9B",
+    "unhash": "onScoreLimit",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_984F",
+    "unhash": "level.teamCount",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_2F9F",
+    "unhash": " level.disableSpawning",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_2402",
+    "unhash": "clearLowerMessages",
+    "params": [  ],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_910F",
+    "unhash": "level.splitscreen",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_globallogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_1786",
+    "unhash": "blank",
+    "params": [ "param_00" , "param_01", "param_02", "param_03","param_04", "param_05", "param_06" , "param_07", "param_08", "param_09" ],
+    "path": "maps/mp/gametypes/_globallogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_680B",
+    "unhash": "notifyMessage",
+    "params": [ "structure" ],
+    "path": "maps/mp/gametypes/_hud_message.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_1457",
+    "unhash": "giveRankXP",
+    "params": [ "param_00" , "ent" ],
+    "path": "maps/mp/gametypes/_rank.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2B57",
+    "unhash": "debugline",
+    "params": [ "int" , "int" ],
+    "path": "maps/mp/gametypes/_globallogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_609A",
+    "unhash": "level.maxRank",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_rank.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_6097",
+    "unhash": "level.maxPrestige",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_rank.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_609B",
+    "unhash": "level.maxRankFinalPrestige",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_rank.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "self.var_12C",
+    "unhash": "self.pers",
+    "params": [  ],
+    "path": "maps/mp/gametypes/_rank.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "self.var_2418",
+    "unhash": "self.clientid",
+    "params": [  ],
+    "path": "maps/mp/_matchdata.gsc",
+    "type": "variable"
   }
+
+
 ]

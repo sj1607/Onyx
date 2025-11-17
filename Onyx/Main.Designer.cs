@@ -34,12 +34,10 @@
             exitBtn = new FontAwesome.Sharp.IconButton();
             minimizeBtn = new FontAwesome.Sharp.IconButton();
             ww2PictureBox = new PictureBox();
-            mwrPictureBox = new PictureBox();
             iwPictureBox = new PictureBox();
             sourceLabel = new LinkLabel();
             logoLabel = new Label();
             ((System.ComponentModel.ISupportInitialize)ww2PictureBox).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)mwrPictureBox).BeginInit();
             ((System.ComponentModel.ISupportInitialize)iwPictureBox).BeginInit();
             SuspendLayout();
             // 
@@ -120,7 +118,7 @@
             ww2PictureBox.ErrorImage = null;
             ww2PictureBox.Image = Properties.Resources.ww2;
             ww2PictureBox.InitialImage = Properties.Resources.ww2;
-            ww2PictureBox.Location = new Point(49, 196);
+            ww2PictureBox.Location = new Point(163, 196);
             ww2PictureBox.Name = "ww2PictureBox";
             ww2PictureBox.Size = new Size(231, 314);
             ww2PictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -128,27 +126,13 @@
             ww2PictureBox.TabStop = false;
             ww2PictureBox.Click += ww2PictureBox_Click;
             // 
-            // mwrPictureBox
-            // 
-            mwrPictureBox.Cursor = Cursors.Hand;
-            mwrPictureBox.ErrorImage = null;
-            mwrPictureBox.Image = Properties.Resources.mwr;
-            mwrPictureBox.InitialImage = Properties.Resources.ww2;
-            mwrPictureBox.Location = new Point(380, 196);
-            mwrPictureBox.Name = "mwrPictureBox";
-            mwrPictureBox.Size = new Size(231, 314);
-            mwrPictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
-            mwrPictureBox.TabIndex = 5;
-            mwrPictureBox.TabStop = false;
-            mwrPictureBox.Click += mwrPictureBox_Click;
-            // 
             // iwPictureBox
             // 
             iwPictureBox.Cursor = Cursors.Hand;
             iwPictureBox.ErrorImage = null;
             iwPictureBox.Image = Properties.Resources.iw;
             iwPictureBox.InitialImage = Properties.Resources.ww2;
-            iwPictureBox.Location = new Point(713, 196);
+            iwPictureBox.Location = new Point(551, 196);
             iwPictureBox.Name = "iwPictureBox";
             iwPictureBox.Size = new Size(231, 314);
             iwPictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -192,7 +176,6 @@
             Controls.Add(logoLabel);
             Controls.Add(sourceLabel);
             Controls.Add(iwPictureBox);
-            Controls.Add(mwrPictureBox);
             Controls.Add(ww2PictureBox);
             Controls.Add(minimizeBtn);
             Controls.Add(exitBtn);
@@ -206,7 +189,6 @@
             Load += Main_Load;
             MouseDown += Move_Form;
             ((System.ComponentModel.ISupportInitialize)ww2PictureBox).EndInit();
-            ((System.ComponentModel.ISupportInitialize)mwrPictureBox).EndInit();
             ((System.ComponentModel.ISupportInitialize)iwPictureBox).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -219,7 +201,6 @@
         private FontAwesome.Sharp.IconButton exitBtn;
         private FontAwesome.Sharp.IconButton minimizeBtn;
         private PictureBox ww2PictureBox;
-        private PictureBox mwrPictureBox;
         private PictureBox iwPictureBox;
         private LinkLabel sourceLabel;
         private Label logoLabel;

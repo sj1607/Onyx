@@ -180,5 +180,979 @@
     "params": [ "exploder type", "exploder id" ],
     "path": "scripts/common/createfx.gsc",
     "type": "function"
+  },
+
+  {
+    "hash": "func_3749",
+    "unhash": "Callback_HostMigration",
+    "params": [ ],
+    "path": "scripts/mp/_hostmigration.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_7669",
+    "unhash": "level.gameEnded",
+    "params": [ ],
+    "path": "scripts/mp/_hostmigration.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_90A9",
+    "unhash": "level.hostmigrationtimer",
+    "params": [ ],
+    "path": "scripts/mp/_hostmigration.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_115C6",
+    "unhash": "level.teamcount",
+    "params": [ ],
+    "path": "scripts/mp/_globallogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_C74B",
+    "unhash": "level.otherteam",
+    "params": [ ],
+    "path": "scripts/mp/_globallogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "function_0114",
+    "unhash": "IsSplitScreen",
+    "params": [ ],
+    "path": "scripts/mp/_globallogic.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "level.var_C2A1",
+    "unhash": "level.objectivebase",
+    "params": [ ],
+    "path": "scripts/mp/_globallogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_6329",
+    "unhash": "level.endgameontimelimit",
+    "params": [ ],
+    "path": "scripts/mp/_globallogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_10130",
+    "unhash": "level.showingfinalkillcam",
+    "params": [ ],
+    "path": "scripts/mp/_globallogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_11946",
+    "unhash": "level.tispawndelay",
+    "params": [ ],
+    "path": "scripts/mp/_globallogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_B3EC",
+    "unhash": "matchmakinggame",
+    "params": [ ],
+    "path": "scripts/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2B53",
+    "unhash": "blank",
+    "params": [ "var_0", "var_1", "var_2", "var_3", "var_4", "var_5", "var_6", "var_7", "var_8", "var_9"],
+    "path": "scripts/mp/_globallogic.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_DB99",
+    "unhash": "oldnotifymessage",
+    "params": ["titletext" , "notifytext" , "iconname" , "playernumforplayercard" , "altdisplayindex"],
+    "path": "scripts/mp/_hud_message.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_00AC",
+    "unhash": "codecallback_leaderdialog",
+    "params": ["param_00" , "param_01" ],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2DD9",
+    "unhash": "bot_is_fireteam_mode",
+    "params": [],
+    "path": "scripts/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2D3A",
+    "unhash": "bot_connect_monitor",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_2E3C",
+    "unhash": "level.bot_out_of_combat_time",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_2E66",
+    "unhash": "level.bot_respawn_launcher_name",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_2D70",
+    "unhash": "level.bot_fallback_weapon",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_13FBD",
+    "unhash": "level.zonecount",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "function_00EC",
+    "unhash": "getzonecount",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash" : "func_2EAF",
+    "unhash" : "bot_think_crate",
+    "params" : [ "" ],  
+    "path" : "scripts/mp/bots/_bots.gsc",
+    "type" : "function" 
+  }, 
+
+  {
+    "hash" : "func_1197",
+    "unhash" : "_beginlocationselection",
+    "params" : [ "streakName" , "selectorType" , "bool" , "size (500)" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_11C3",
+    "unhash" : "updatepersratio",
+    "params" : [ "statname" , "statname" , "statname" , "level.ignorekdrstats" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_12EE9",
+    "unhash" : "updatepersratiobuffered",
+    "params" : [ "statname" , "statname" , "statname"],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "self.var_2C7",
+    "unhash" : "self.statusicon",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  }, 
+
+  {
+    "hash" : "func_12C6",
+    "unhash" : "_Giveweapon",
+    "params" : [ "weapon" , "int" , "int" , "int"],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_9900",
+    "unhash" : "inovertime",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_7672",
+    "unhash" : "gamehasstarted",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  },
+
+  {
+    "hash" : "func_7EEF",
+    "unhash" : "gethalftime",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  },
+
+  {
+    "hash" : "func_9900",
+    "unhash" : "inovertime",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "level.var_C2A1",
+    "unhash" : "level.objectivebased",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  }, 
+
+  {
+    "hash" : "func_9F32",
+    "unhash" : "isRoundBased",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  },
+
+  {
+    "hash" : "level.roundlimit",
+    "unhash" : "level.var_E762",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  }, 
+
+  {
+    "hash" : "level.winlimit",
+    "unhash" : "level.var_13D89",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  }, 
+
+  {
+    "hash" : "func_8105",
+    "unhash" : "GetScoreLimit",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "level.var_E763",
+    "unhash" : "level.scorelimit",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  }, 
+
+  {
+    "hash" : "func_904A",
+    "unhash" : "HitWinLimit",
+    "params" : [],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_9044",
+    "unhash" : "HitScoreLimit",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_9041",
+    "unhash" : "HitRoundLimit",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_9049",
+    "unhash" : "HitTimeLimit",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_9DF6",
+    "unhash" : "isLastRound",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_9F32",
+    "unhash" : "isRoundBased",
+    "params" : [ ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_12F5B",
+    "unhash" : "updateWatchedDvars",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_7E8A",
+    "unhash" : "GetDvarVec",
+    "params" : [ "dvar" ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_791E",
+    "unhash" : "get_damageable_grenade_pos",
+    "params" : [ "entity" ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_815C",
+    "unhash" : "getStanceCenter",
+    "params" : [ "" ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_7921",
+    "unhash" : "get_damageable_player_pos",
+    "params" : [ "entity" ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_791F",
+    "unhash" : "get_damageable_mine",
+    "params" : [ "entity" , "vector" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_F7D3",
+    "unhash" : "setOverTimeLimitDvar",
+    "params" : [ "int" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_DF02",
+    "unhash" : "registerNumLivesDvar",
+    "params" : [ "gametype" , "int" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_DEF4",
+    "unhash" : "registerHalfTimeDvar",
+    "params" : [ "gametype" , "int" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  },
+
+  {
+    "hash" : "func_DF11",
+    "unhash" : "registerTimeLimitDvar",
+    "params" : [ "gametype" , "int" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  },
+
+  {
+    "hash" : "func_DF0B",
+    "unhash" : "registerScoreLimitDvar",
+    "params" : [ "gametype" , "int" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_DF1A",
+    "unhash" : "registerWinLimitDvar",
+    "params" : [ "gametype" , "int" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  },
+
+  {
+    "hash" : "func_DF08",
+    "unhash" : "registerRoundLimitDvar",
+    "params" : [ "gametype" , "int"],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_DF03",
+    "unhash" : "registerNumTeamsDvar",
+    "params" : [ "gametype" , "int"],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_DF09",
+    "unhash" : "registerRoundSwitchDvar",
+    "params" : [ "int" , "int" , "int" , "int" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_136EE",
+    "unhash" : "waitForTimeOrNotifies",
+    "params" : [ "int" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_9FD4",
+    "unhash" : "isValidClass",
+    "params" : [ "class" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_A013",
+    "unhash" : "GetValueInRange",
+    "params" : [ "float or int" , "float or int" , "float or int" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_41BF",
+    "unhash" : "clearkillcamstate",
+    "params" : [ "int" ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "self.var_140",
+    "unhash" : "self.forcespectatorclient",
+    "params" : [  ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  },
+
+  {
+    "hash" : "self.var_1A9",
+    "unhash" : "self.killcamentity",
+    "params" : [  ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  },
+
+  {
+    "hash" : "self.var_4A",
+    "unhash" : "self.archivetime",
+    "params" : [  ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  },
+
+  {
+    "hash" : "self.var_252",
+    "unhash" : "self.psoffsettime",
+    "params" : [  ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  },
+
+  {
+    "hash" : "self.var_2B0",
+    "unhash" : "self.spectatekillcam",
+    "params" : [  ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  },
+
+  {
+    "hash" : "func_7FB9",
+    "unhash" : "GetMinutesPassed",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_810C",
+    "unhash" : "GetSecondsPassed",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_81CC",
+    "unhash" : "GetMillisecondsPassed",
+    "params" : [ ],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_81CA",
+    "unhash" : "GetTimeLimit",
+    "params" : [ ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_81CB",
+    "unhash" : "GetTimePassed",
+    "params" : [ ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  },
+
+  {
+    "hash" : "level.var_10DFF",
+    "unhash" : "level.starttime",
+    "params" : [  ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  },
+
+  {
+    "hash" : "level.var_561F",
+    "unhash" : "level.discardtime",
+    "params" : [ ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  },
+
+  {
+    "hash" : "level.var_1191F",
+    "unhash" : "level.timerStopped",
+    "params" : [ ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  },
+
+  {
+    "hash" : "level.var_1191E",
+    "unhash" : "level.timerpausetime",
+    "params" : [ ],  
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "variable"
+  },
+
+  {
+    "hash" : "level.var_400C",
+    "unhash" : "level.classmap",
+    "params" : [ ],  
+    "path" : "scripts/mp/_class.gsc",
+    "type" : "variable"
+  }, 
+
+  {
+    "hash" : "level.var_5034",
+    "unhash" : "level.defaultclass",
+    "params" : [  ],  
+    "path" : "scripts/mp/_class.gsc",
+    "type" : "variable"
+  }, 
+
+  {
+    "hash" : "level.var_4010",
+    "unhash" : "level.classtablename",
+    "params" : [  ],  
+    "path" : "scripts/mp/_class.gsc",
+    "type" : "variable"
+  }, 
+
+  {
+    "hash" : "func_7E2A",
+    "unhash" : "GetClassChoice",
+    "params" : [ "class" ],  
+    "path" : "scripts/mp/_class.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash" : "func_821E",
+    "unhash" : "GetWeaponChoice",
+    "params" : [ "weapon" ],  
+    "path" : "scripts/mp/_class.gsc",
+    "type" : "function"
+  }, 
+
+  {
+    "hash": "func_3689",
+    "unhash": "cac_getWeapon",
+    "params": [ "loadout index", "weapon slot" ], 
+    "path": "scripts/mp/_class.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_368A",
+    "unhash": "cac_getWeaponAttachment",
+    "params": [ "loadout index", "weapon slot", "attachment index" ], 
+    "path": "scripts/mp/_class.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_3692",
+    "unhash": "cac_getWeaponLootItemID",
+    "params": [ "loadout index", "weapon slot" ], 
+    "path": "scripts/mp/_class.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_3695",
+    "unhash": "cac_getWeaponVariantID",
+    "params": [ "loadout index", "weapon slot" ], 
+    "path": "scripts/mp/_class.gsc",
+    "type": "function"
+    
+  },
+
+  {
+    "hash": "func_3691",
+    "unhash": "cac_getWeaponCamo",
+    "params": [ "loadout index", "weapon slot" ], 
+    "path": "scripts/mp/_class.gsc",
+    "type": "function"
+    
+  },
+
+  {
+    "hash": "func_3694",
+    "unhash": "cac_getWeaponReticle",
+    "params": [ "loadout index", "weapon slot" ], 
+    "path": "scripts/mp/_class.gsc",
+    "type": "function"
+    
+  },
+
+  {
+    "hash": "func_367B",
+    "unhash": "cac_getKillstreak",
+    "params": [ "killstreak index" ], 
+    "path": "scripts/mp/_class.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_C530",
+    "unhash": "onForfeit",
+    "params": [ "team" ], 
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_72B3",
+    "unhash": "level.forcedEnd",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "function_0132",
+    "unhash": "logstring",
+    "params": [ "string" ], 
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_72F3",
+    "unhash": "forfeitWaitforAbort",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_B3EB",
+    "unhash": "matchForfeitTimer_Internal",
+    "params": [ "int" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_5007",
+    "unhash": "default_onDeadEvent",
+    "params": [ "team" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_7F5E",
+    "unhash": "GetLastLivingPlayer",
+    "params": [ "team" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_500A",
+    "unhash": "default_onTimeLimit",
+    "params": [ "" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_5008",
+    "unhash": "default_onHalfTime",
+    "params": [ "" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_72BE",
+    "unhash": "forceEnd",
+    "params": [ "int" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_90A1",
+    "unhash": "level.hostForcedEnd",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "func_C587",
+    "unhash": "OnScoreLimit",
+    "params": [ "undefined" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_12E9D",
+    "unhash": "updateGameEvents",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_55EE",
+    "unhash": "level.disableforfeit",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_72F2",
+    "unhash": "level.forfeitinprogress",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_5611",
+    "unhash": "level.disableSpawning",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+   
+    "hash": "level.var_C4E8",
+    "unhash": "level.onDeadEvent",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "variable"
+    
+  }, 
+
+  {
+    "hash": "level.var_1BE6",
+    "unhash": "level.alivecount",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_C50B",
+    "unhash": "level.onelefttime",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+  
+  {
+    "hash": "func_13830",
+    "unhash": "waittillFinalKillcamDone",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "level.var_6C6F",
+    "unhash": "level.finalkillcam_winner",
+    "params": [  ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_118F8",
+    "unhash": "timeLimitClock_Intermission",
+    "params": [ "int" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_12F66",
+    "unhash": "updateWinStats",
+    "params": [ "entity" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_12EC3",
+    "unhash": "updateLossStats",
+    "params": [ "entity" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_12F42",
+    "unhash": "updateDrawStats",
+    "params": [ "entity" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_DCD5",
+    "unhash": "rankingEnabled",
+    "params": [  ],  
+    "path": "scripts/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_12F65",
+    "unhash": "updateWinLossStats",
+    "params": [ "entity" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_7386",
+    "unhash": "freezePlayerForRoundEnd",
+    "params": [ "bool" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_7385",
+    "unhash": "freezeControlsWrapper",
+    "params": ["bool"],  
+    "path": "scripts/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_12ECA",
+    "unhash": "updateMatchBonusScores",
+    "params": [ "entity" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_3716",
+    "unhash": "giveMatchBonus",
+    "params": [ "string" , "int" ],  
+    "path": "scripts/mp/_gamelogic.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_8104",
+    "unhash": "giveRankXP",
+    "params": [ "string"  ],  
+    "path": "scripts/mp/_rank.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_7F8F",
+    "unhash": "endGameUpdate",
+    "params": [  ],  
+    "path": "scripts/mp/_rank.gsc",
+    "type": "function"
   }
 ]
+

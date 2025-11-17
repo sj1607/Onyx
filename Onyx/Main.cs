@@ -1,6 +1,7 @@
 using Onyx.Classes;
 using Onyx.Forms;
 using Onyx.Forms.IW;
+using System.Diagnostics;
 using System.Runtime.InteropServices;
 
 namespace Onyx
@@ -120,20 +121,20 @@ namespace Onyx
             this.Hide();
         }
 
-        private void mwrPictureBox_Click(object sender, EventArgs e)
-        {
-            //not supported yet
-            Notify.NotifyToast("Error", "Not supported yet!", ToolTipIcon.Error);
-
-            /* MWRForm mwrForm = new MWRForm();
-                 mwrForm.Show();
-                 this.Hide();
-            */
-        }
-
         private void sourceLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
+            try
+            {
+                Process.Start(new ProcessStartInfo
+                {
+                    FileName = "https://github.com/sj1607/Onyx/tree/main",
+                    UseShellExecute = true
+                });
+            }
+            catch (Exception ex) 
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }

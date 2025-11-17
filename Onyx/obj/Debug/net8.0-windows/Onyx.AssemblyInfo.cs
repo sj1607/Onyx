@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Onyx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+552c2e1467b706f2487b38a0de64a5fbeaae8489")]
 [assembly: System.Reflection.AssemblyProductAttribute("Onyx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Onyx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

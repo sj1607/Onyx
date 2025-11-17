@@ -8,7 +8,6 @@ C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\bin\Debug\net8.0-windows\Onyx.pdb
 C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
 C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\obj\Debug\net8.0-windows\Onyx.csproj.AssemblyReference.cache
-C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\obj\Debug\net8.0-windows\Onyx.Forms.MWRForm.resources
 C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\obj\Debug\net8.0-windows\Onyx.Forms.Settings.resources
 C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\obj\Debug\net8.0-windows\Onyx.Forms.WW2Form.resources
 C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\obj\Debug\net8.0-windows\Onyx.Main.resources
@@ -24,6 +23,6 @@ C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\obj\Debug\net8.0-windows\refint\Onyx.d
 C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\obj\Debug\net8.0-windows\Onyx.pdb
 C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\obj\Debug\net8.0-windows\Onyx.genruntimeconfig.cache
 C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\obj\Debug\net8.0-windows\ref\Onyx.dll
-C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\bin\Debug\net8.0-windows\JSON\mwr.json
 C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\bin\Debug\net8.0-windows\JSON\iw.json
 C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\obj\Debug\net8.0-windows\Onyx.Forms.IW.IWForm.resources
+C:\Users\TempAdmin\Desktop\Onyx\Onyx\Onyx\obj\Debug\net8.0-windows\Onyx.sourcelink.json
