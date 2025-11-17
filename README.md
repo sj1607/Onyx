@@ -8,8 +8,6 @@ Onyx currently supports the following titles:
 
 **S2** (World War II)
 
-**H1** (Moderne Warfare Remastered)
-
 **IW7** (Infinite Warfare)
 
 # Note
