@@ -360,7 +360,7 @@
 
   {
     "hash" : "func_1197",
-    "unhash" : "_beginlocationselection",
+    "unhash" : "_BeginLocationSelection",
     "params" : [ "streakName" , "selectorType" , "bool" , "size (500)" ],  
     "path" : "scripts/mp/_utility.gsc",
     "type" : "function"
@@ -1153,6 +1153,807 @@
     "params": [  ],  
     "path": "scripts/mp/_rank.gsc",
     "type": "function"
+  },
+
+  {
+    "hash": "func_10656",
+    "unhash": "spawn_bots",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2D04",
+    "unhash": "bot_add_scavenger_bag",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2D06",
+    "unhash": "bot_add_to_bot_level_targets",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2E64",
+    "unhash": "bot_remove_from_bot_level_targets",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2E16",
+    "unhash": "bot_make_entity_sentient",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2EAE",
+    "unhash": "bot_think",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_C4AC",
+    "unhash": "on_bot_killed",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2E8E",
+    "unhash": "bot_should_do_killcam",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2DAF",
+    "unhash": "bot_get_known_attacker",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2E90",
+    "unhash": "bot_should_pickup_weapons",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2D47",
+    "unhash": "bot_damage_callback",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_4FF3",
+    "unhash": "default_gametype_think",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2DFB",
+    "unhash": "bot_leader_dialog",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2E4D",
+    "unhash": "bot_player_spawned",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_FF9A",
+    "unhash": "should_start_cautious_approach_default",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_strategy.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2DF8",
+    "unhash": "bot_know_enemies_on_start",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2DB3",
+    "unhash": "bot_get_rank_xp_and_prestige",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2D00",
+    "unhash": "bot_3d_sighting_model",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2EB6",
+    "unhash": "bot_think_seek_dropped_weapons",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_FFA0",
+    "unhash": "should_stop_seeking_weapon",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_4831",
+    "unhash": "crate_can_use_always",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+  
+  {
+    "hash": "func_2E50",
+    "unhash": "bot_post_teleport",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2E5D",
+    "unhash": "bot_random_path_default",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_personality.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_6C87",
+    "unhash": "find_defend_node_capture",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_strategy.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_6C88",
+    "unhash": "find_defend_node_capture_zone",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_strategy.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_6C8A",
+    "unhash": "find_defend_node_protect",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_strategy.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_6C86",
+    "unhash": "find_defend_node_bodyguard",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_strategy.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_6C89",
+    "unhash": "find_defend_node_patrol",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_strategy.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "level.var_2D9E",
+    "unhash": "level.bot_funcs",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_B9A3",
+    "unhash": "monitor_smoke_grenades",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2EBB",
+    "unhash": "bot_triggers",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_97DE",
+    "unhash": "initbotlevelvariables",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_10082",
+    "unhash": "shouldspawnbots",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "function_001F",
+    "unhash": "botautoconnectenabled",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_485C",
+    "unhash": "level.crateownerusetime",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_4859",
+    "unhash": "level.cratenonownerusetime",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_13FBD",
+    "unhash": "level.zonecount",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type" : "variable"
+  }, 
+
+  {
+    "hash": "function_00EC",
+    "unhash": "getzonecount",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_97DF",
+    "unhash": "initbotmapextents",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_1165C",
+    "unhash": "level.teleportgetactivenodesfunc",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "function_0076",
+    "unhash": "getallnodes",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_2E1B",
+    "unhash": "level.bot_map_min_x",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_2E18",
+    "unhash": "level.bot_map_max_x",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_2E1C",
+    "unhash": "level.bot_map_min_y",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_2E19",
+    "unhash": "level.bot_map_max_y",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_2E1D",
+    "unhash": "level.bot_map_min_z",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_2E1A",
+    "unhash": "level.bot_map_max_z",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "level.var_2E17",
+    "unhash": "level.bot_map_center",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_2EC5",
+    "unhash": "level.bot_variables_initialized",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "func_DE6C",
+    "unhash": "refresh_existing_bots",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2E82",
+    "unhash": "bot_set_loadout_class",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "self.var_2D33",
+    "unhash": "self.bot_class",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "self.var_4004",
+    "unhash": "self.class",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_13968",
+    "unhash": "watch_players_connecting",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_D40C",
+    "unhash": "level.players_waiting_to_join",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_2EF7",
+    "unhash": "bots_notify_on_spawn",
+    "params": ["entity (bot)"],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2EF6",
+    "unhash": "bots_notify_on_disconnect",
+    "params": ["entity (bot)"],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2EF8",
+    "unhash": "bots_remove_from_array_on_notify",
+    "params": ["entity (bot)"],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_B985",
+    "unhash": "monitor_pause_spawning",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_C9D7",
+    "unhash": "level.pausing_bot_connect_monitor",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_2D22",
+    "unhash": "bot_can_join_team",
+    "params": ["string (team)"],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_7F24",
+    "unhash": "getjointeampermissions",
+    "params": ["string (team)"],
+    "path": "scripts/mp/gametypes/_teams.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2D3A",
+    "unhash": "bot_connect_monitor",
+    "params": [ "int (but never used in the function)" , "int(but never used in the function)" ],  
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_C9D7",
+    "unhash": "level.pausing_bot_connect_monitor",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_B985",
+    "unhash": "monitor_pause_spawning",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_13708",
+    "unhash": "waitlongdurationwithhostmigrationpause",
+    "params": ["float"],
+    "path": "scripts/mp/_hostmigration.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_2D36",
+    "unhash": "level.bot_cm_spawned_bots",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_2D37",
+    "unhash": "level.bot_cm_waited_players_time",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_2D35",
+    "unhash": "level.bot_cm_human_picked",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_2EF5",
+    "unhash": "level.bots_ignore_team_balance",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "function_0025",
+    "unhash": "botgetteamlimit",
+    "params": ["int"],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "function_0024",
+    "unhash": "botgetteamdifficulty",
+    "params": ["int"],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2D34",
+    "unhash": "bot_client_counts",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_3B22",
+    "unhash": "cat_array_get",
+    "params": ["array", "string"],
+    "path": "scripts/common/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2DAD",
+    "unhash": "bot_get_host_team",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_B3EC",
+    "unhash": "matchmakinggame",
+    "params": [],
+    "path": "scripts/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_7A21",
+    "unhash": "get_human_player",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2DB2",
+    "unhash": "bot_get_player_team",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2DB5",
+    "unhash": "bot_get_team_limit",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2DA6",
+    "unhash": "bot_get_client_limit",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2DAE",
+    "unhash": "bot_get_human_picked_team",
+    "params": [],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_766C",
+    "unhash": "gameflag",
+    "params": ["string"],
+    "path": "scripts/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2D22",
+    "unhash": "bot_can_join_team",
+    "params": ["string"],
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "level.var_2E56",
+    "unhash": "level.bot_prematchdonetime",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "func_BC13",
+    "unhash": "move_bots_from_team_to_team",
+    "params": ["int", "string", "string", "string"],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_5CE4",
+    "unhash": "drop_bots",
+    "params": ["int", "string"],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_10656",
+    "unhash": "spawn_bots",
+    "params": ["int", "string", "undefined", "undefined", "string", "string"],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_137AC",
+    "unhash": "waittill_multiple",
+    "params": ["string", "string"],
+    "path": "scripts/common/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_2EF9",
+    "unhash": "bots_update_difficulty",
+    "params": ["string", "string"],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2DB2",
+    "unhash": "bot_get_player_team",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2DAD",
+    "unhash": "bot_get_host_team",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2DAE",
+    "unhash": "bot_get_human_picked_team",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_D229",
+    "unhash": "player_picked_team",
+    "params": ["entity (player)"],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2D34",
+    "unhash": "bot_client_counts",
+    "params": [],
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_3B21",
+    "unhash": "cat_array_add",
+    "params": [ "array" , "string" ],  
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_3B22",
+    "unhash": "cat_array_get",
+    "params": [ "array" , "key" ],  
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_3B23",
+    "unhash": "cat_array_remove",
+    "params": [ "array" , "key" ],  
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_BC13",
+    "unhash": "move_bots_from_team_to_team",
+    "params": [ "int" , "string (team)" , "string (team)" , "string (difficulty)" ],  
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2E81",
+    "unhash": "bot_set_difficulty",
+    "params": [ "string (difficulty)" ],  
+    "path": "scripts/mp/bots/_bots_util.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_2E15",
+    "unhash": "bot_lui_convert_team_to_int",
+    "params": [ "string (team)"],  
+    "path": "scripts/mp/bots/_bots.gsc",
+    "type": "function"
   }
 ]
+
 
