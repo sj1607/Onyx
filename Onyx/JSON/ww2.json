@@ -482,7 +482,7 @@
   {
     "hash": "func_069F",
     "unhash": "_PlayLocalSound",
-    "params": [ "sound" ],
+    "params": [ "soundalias" ],
     "path": "maps/mp/_utility.gsc",
     "type": "function"
   },
@@ -490,7 +490,7 @@
   {
     "hash": "method_8615",
     "unhash": "playlocalsound",
-    "params": [ "sound" ],
+    "params": [ "soundalias" ],
     "path": "maps/mp/_utility.gsc",
     "type": "method"
   }, 
@@ -2411,7 +2411,557 @@
     "params": ["team"],
     "path": "scripts/mp/bots/_bots.gsc",
     "type": "function"
+  },
+
+  {
+    "hash": "func_FB2",
+    "unhash": "array_thread",
+    "params": [ "entity array" ],
+    "path": "maps/mp/_dynamic_world.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_3A1E",
+    "unhash": "fan_blade_rotate",
+    "params": [ "speed (string)" ],
+    "path": "maps/mp/_dynamic_world.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_7320",
+    "unhash": "player_set_in_water",
+    "params": ["int"],
+    "path": "maps/mp/_water.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "self.var_A019",
+    "unhash": "self.underwater",
+    "params": [],
+    "path": "maps/mp/_water.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "self.var_57F2",
+    "unhash": "self.iswading",
+    "params": [],
+    "path": "maps/mp/_water.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "self.var_5849",
+    "unhash": "self.isswimming",
+    "params": [],
+    "path": "maps/mp/_water.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "method_812B",
+    "unhash": "allowfire",
+    "params": ["bool"],
+    "path": "maps/mp/_water.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "self.var_A25C",
+    "unhash": "self.usingremote",
+    "params": [],
+    "path": "maps/mp/_flashgrenades.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_6394",
+    "unhash": "monitorflash",
+    "params": [],
+    "path": "maps/mp/_flashgrenades.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_0F33",
+    "unhash": "applyflash",
+    "params": ["flashduration" , "flashrumbleduration" , "Idk (bool)"],
+    "path": "maps/mp/_flashgrenades.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "self.var_3D46",
+    "unhash": "self.flashduration",
+    "params": [],
+    "path": "maps/mp/_flashgrenades.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "self.var_3D47",
+    "unhash": "self.flashrumbleduration",
+    "params": [],
+    "path": "maps/mp/_flashgrenades.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "self.var_3D48",
+    "unhash": "self.flashendtime",
+    "params": [],
+    "path": "maps/mp/_flashgrenades.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_56F3",
+    "unhash": "isflashbanged",
+    "params": [],
+    "path": "maps/mp/_flashgrenades.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_3D58",
+    "unhash": "flashrumbleloop",
+    "params": ["int"],
+    "path": "maps/mp/_flashgrenades.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_940E",
+    "unhash": "stopmonitoringflash",
+    "params": ["useless param"],
+    "path": "maps/mp/_flashgrenades.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_92E8",
+    "unhash": "startmonitoringflash",
+    "params": [],
+    "path": "maps/mp/_flashgrenades.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_9874",
+    "unhash": "teleport_ai",
+    "params": ["ai"],
+    "path": "801.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "method_81C2",
+    "unhash": "forceteleport",
+    "params": ["origin", "angle"],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_81A2",
+    "unhash": "setgoalpos",
+    "params": ["origin"],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_81A1",
+    "unhash": "setgoalnode",
+    "params": ["ai"],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_8114",
+    "unhash": "allowprone",
+    "params": ["bool"],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_8113",
+    "unhash": "allowcrouch",
+    "params": ["bool"],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "method_8112",
+    "unhash": "allowstand",
+    "params": ["bool"],
+    "path": "",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "method_8322",
+    "unhash": "disableweapons",
+    "params": [""],
+    "path": "",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "method_8323",
+    "unhash": "enableweapons",
+    "params": [""],
+    "path": "",
+    "type": "method"
+  },
+
+  {
+    "hash": "func_2A9E",
+    "unhash": "deathbloodpool",
+    "params": [""],
+    "path": "1357.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_AC15",
+    "unhash": "zombieaimonitorthreads",
+    "params": [""],
+    "path": "1357.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_ABCF",
+    "unhash": "monitorbadzombieai",
+    "params": [""],
+    "path": "1357.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_3C87",
+    "unhash": "flag_init",
+    "params": ["flag"],
+    "path": "common_scripts/utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_327B",
+    "unhash": "door_set_cost",
+    "params": ["int"],
+    "path": "1343.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "self.var_267B",
+    "unhash": "self.cost",
+    "params": [],
+    "path": "1343.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_325C",
+    "unhash": "door_error",
+    "params": ["string"],
+    "path": "1343.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_3C8F",
+    "unhash": "flag_set",
+    "params": ["flag"],
+    "path": "common_scripts/utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "method_8321",
+    "unhash": "endlocationselection",
+    "params": [""],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  },
+
+  {
+    "hash": "self.var_83AF",
+    "unhash": "self.selectinglocation",
+    "params": [""],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "func_3C8E",
+    "unhash": "playsoundonplayers",
+    "params": ["soundalias" , "team" , ""],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "method_82ED",
+    "unhash": "issplitscreenplayerprimary",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "func_74C3",
+    "unhash": "playloopsoundtoplayers",
+    "params": ["soundalias" , "angle" , ""],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "method_8449",
+    "unhash": "vehicle_jetbikesethoverforcescale",
+    "params": ["entity"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "method_861D",
+    "unhash": "playloopsound",
+    "params": ["soundalias"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "method"
+  }, 
+
+  {
+    "hash": "func_5727",
+    "unhash": "isinkillcam",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "self.var_188",
+    "unhash": "self.spectatekillcam",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_5EB0",
+    "unhash": "logxpgains",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "function_00F5",
+    "unhash": "reconevent",
+    "params": ["string"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_56F6",
+    "unhash": "isfloat",
+    "params": ["float"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "func_4DE2",
+    "unhash": "hitscorelimit",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  } , 
+
+  {
+    "hash": "func_4DDD",
+    "unhash": "hitroundlimit",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  } , 
+
+  {
+    "hash": "func_471A",
+    "unhash": "getwatcheddvar",
+    "params": ["dvar"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "self.var_15C",
+    "unhash": "self.score",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  }, 
+
+  {
+    "hash": "func_7A69",
+    "unhash": "rankingenabled",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_7A67",
+    "unhash": "level.rankedmatch",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "self.var_A25B",
+    "unhash": "self.usingonlinedataoffline",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "func_773F",
+    "unhash": "privatematch",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  }, 
+
+  {
+    "hash": "level.var_6B4D",
+    "unhash": "level.onlinegame",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "func_761E",
+    "unhash": "practiceroundgame",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "level.var_7616",
+    "unhash": "level.practiceround",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "func_4571",
+    "unhash": "getmapname",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_44FC",
+    "unhash": "getgametypenumlives",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_56A8",
+    "unhash": "ischangingweapon",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "self.var_20CC",
+    "unhash": "self.changingweapon",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "func_5A54",
+    "unhash": "killshouldaddtokillstreak",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_5740",
+    "unhash": "iskillstreakweapon",
+    "params": ["streakName"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_4431",
+    "unhash": "getweaponnametokens",
+    "params": ["weaponToken"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "level.var_5A7D",
+    "unhash": "level.killstreakwieldweapons",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "level.var_5A7D",
+    "unhash": "level.killstreakwieldweapons",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "variable"
+  },
+
+  {
+    "hash": "function_01D4",
+    "unhash": "weaponinventorytype",
+    "params": ["weaponType"],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_5705",
+    "unhash": "isgrapplinghookgamemode",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
+  },
+
+  {
+    "hash": "func_551F",
+    "unhash": "invirtuallobby",
+    "params": [],
+    "path": "maps/mp/_utility.gsc",
+    "type": "function"
   }
-
-
 ]
