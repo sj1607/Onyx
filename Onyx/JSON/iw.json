@@ -1953,7 +1953,189 @@
     "params": [ "string (team)"],  
     "path": "scripts/mp/bots/_bots.gsc",
     "type": "function"
+  },
+
+  {
+    "hash" : "func_80D2",
+    "unhash" : "getxp",
+    "params" : [""],
+    "path" : "scripts/mp/_rank.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "func_8098",
+    "unhash" : "getprestigelevel",
+    "params" : [""],
+    "path" : "scripts/mp/_rank.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "level.var_DCD6",
+    "unhash" : "level.ranktable",
+    "params" : [""],
+    "path" : "scripts/mp/_rank.gsc",
+    "type" : "variable"
+
+  }, 
+
+  {
+    "hash" : "func_12EFB",
+    "unhash" : "updateRankAnnounceHUD",
+    "params" : [""],
+    "path" : "scripts/mp/_rank.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "func_80C8",
+    "unhash" : "getrank",
+    "params" : [""],
+    "path" : "scripts/mp/_rank.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "func_3BC7",
+    "unhash" : "getRankInfoMinXP",
+    "params" : ["rankID"],
+    "path" : "scripts/mp/_rank.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "func_3BC8",
+    "unhash" : " getRankInfoXPAmt",
+    "params" : ["rankID"],
+    "path" : "scripts/mp/_rank.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "function_01E1",
+    "unhash" : " spawnfxforclient",
+    "params" : ["fx" , "tag" , "entity"],
+    "path" : "scripts/mp/_shellshock.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "method_82EC",
+    "unhash" : " setfxkilldefondelete",
+    "params" : [""],
+    "path" : "scripts/mp/_shellshock.gsc",
+    "type" : "method"
+
+  }, 
+
+  {
+    "hash" : "method_82EC",
+    "unhash" : " setfxkilldefondelete",
+    "params" : [""],
+    "path" : "scripts/mp/_shellshock.gsc",
+    "type" : "method"
+
+  }, 
+
+  {
+    "hash" : "func_9FC6",
+    "unhash" : " isUsingRemote",
+    "params" : [""],
+    "path" : "scripts/mp/_utility.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "func_11ADD",
+    "unhash" : " waithostmigrationend",
+    "params" : [""],
+    "path" : "scripts/mp/_spawnlogic.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "func_11ADC",
+    "unhash" : " trackgrenades",
+    "params" : [""],
+    "path" : "scripts/mp/_spawnlogic.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "func_11B00",
+    "unhash" : " trackmissiles",
+    "params" : [""],
+    "path" : "scripts/mp/_spawnlogic.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "func_11ACB",
+    "unhash" : " trackcarepackages",
+    "params" : [""],
+    "path" : "scripts/mp/_spawnlogic.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "level.var_115EA",
+    "unhash" : "level.teamspawnpoints",
+    "params" : [""],
+    "path" : "scripts/mp/_spawnlogic.gsc",
+    "type" : "variable"
+
+  }, 
+
+  {
+    "hash" : "func_DF0D",
+    "unhash" : " addspawnpoints",
+    "params" : ["string (team)" , "array" , "bool"],
+    "path" : "scripts/mp/_spawnlogic.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "func_108FA",
+    "unhash" : "spawnpointinit",
+    "params" : [""],
+    "path" : "scripts/mp/_spawnlogic.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "func_17A7",
+    "unhash" : "addalternatespawnpoint",
+    "params" : [""],
+    "path" : "scripts/mp/_spawnlogic.gsc",
+    "type" : "function"
+
+  }, 
+
+  {
+    "hash" : "func_12E84",
+    "unhash" : "updatedamagefeedback",
+    "params" : ["feedback_type" , "hitmarker_type" , "damage_mod" , "bool"],
+    "path" : "scripts/mp/_damagefeedback.gsc",
+    "type" : "function"
+
   }
+
+
 ]
 
 
